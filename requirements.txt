@@ -3,3 +3,4 @@ streamlit
 scikit-learn
 numpy
 sentence-transformers
+transformers
